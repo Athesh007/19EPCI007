@@ -10,10 +10,13 @@ Added to Problems
 Problem - 01 : 
 
   ```npm install```
+
   
   ```npm start```
+
   
   ```cd backend```
+
   
   ```node index.js```
 
